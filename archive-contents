@@ -262,5 +262,4 @@
  (pyim-wbdict . [(20200825 2018) nil "pyim-wbdict" tar])
  (fantom-theme . [(20200328 604) nil "fantom-theme" tar])
  (vscode-dark-plus-theme . [(20200831 323) nil "vscode-dark-plus-theme" tar])
- (flycheck . [(20200909 31) nil "flycheck" tar])
 )
